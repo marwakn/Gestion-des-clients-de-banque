@@ -1,0 +1,18 @@
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\obj\x86\Release\C_sharp_Access_Clients_de_Banque.Formpagedemarrage.resources
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\obj\x86\Release\C_sharp_Access_Clients_de_Banque.Formformulaireclient.resources
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\obj\x86\Release\C_sharp_Access_Clients_de_Banque.Formformulaireoperation.resources
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\obj\x86\Release\C_sharp_Access_Clients_de_Banque.Formrequetteopclient.resources
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\obj\x86\Release\C_sharp_Access_Clients_de_Banque.Properties.Resources.resources
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\obj\x86\Release\C sharp Access Clients-de-Banque.csproj.GenerateResource.Cache
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\bin\Release\Access Clients-de-Banque.accdb
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\bin\Release\C sharp Access Clients-de-Banque.exe.config
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\bin\Release\C sharp Access Clients-de-Banque.exe
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\bin\Release\C sharp Access Clients-de-Banque.pdb
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\obj\x86\Release\C sharp Access Clients-de-Banque.exe
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque\C sharp Access Clients-de-Banque\obj\x86\Release\C sharp Access Clients-de-Banque.pdb
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque - 03-03-22\C sharp Access Clients-de-Banque\bin\Release\C sharp Access Clients-de-Banque.exe.config
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque - 03-03-22\C sharp Access Clients-de-Banque\obj\x86\Release\C sharp Access Clients-de-Banque.exe
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit\C sharp Access Clients-de-Banque - 03-03-22\C sharp Access Clients-de-Banque\obj\x86\Release\C sharp Access Clients-de-Banque.pdb
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit - Copie\C sharp Access Clients-de-Banque - 03-03-22\C sharp Access Clients-de-Banque\bin\Release\C sharp Access Clients-de-Banque.exe.config
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit - Copie\C sharp Access Clients-de-Banque - 03-03-22\C sharp Access Clients-de-Banque\obj\x86\Release\C sharp Access Clients-de-Banque.exe
+C:\Users\HP GIMER\Desktop\examen finale 169 el kzit - Copie\C sharp Access Clients-de-Banque - 03-03-22\C sharp Access Clients-de-Banque\obj\x86\Release\C sharp Access Clients-de-Banque.pdb
